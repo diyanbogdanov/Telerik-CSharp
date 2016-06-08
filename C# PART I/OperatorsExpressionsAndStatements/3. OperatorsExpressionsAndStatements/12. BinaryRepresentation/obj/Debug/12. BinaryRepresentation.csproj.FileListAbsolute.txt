@@ -1,0 +1,5 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\12. BinaryRepresentation\bin\Debug\_12.BinaryRepresentation.exe.config
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\12. BinaryRepresentation\bin\Debug\_12.BinaryRepresentation.exe
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\12. BinaryRepresentation\bin\Debug\_12.BinaryRepresentation.pdb
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\12. BinaryRepresentation\obj\Debug\_12.BinaryRepresentation.exe
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\12. BinaryRepresentation\obj\Debug\_12.BinaryRepresentation.pdb

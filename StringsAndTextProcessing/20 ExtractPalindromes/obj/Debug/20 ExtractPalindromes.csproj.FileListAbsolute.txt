@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\20 ExtractPalindromes\bin\Debug\20 ExtractPalindromes.exe.config
+F:\Telerik\StringsAndTextProcessing\20 ExtractPalindromes\bin\Debug\20 ExtractPalindromes.exe
+F:\Telerik\StringsAndTextProcessing\20 ExtractPalindromes\bin\Debug\20 ExtractPalindromes.pdb
+F:\Telerik\StringsAndTextProcessing\20 ExtractPalindromes\obj\Debug\20 ExtractPalindromes.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\20 ExtractPalindromes\obj\Debug\20 ExtractPalindromes.exe
+F:\Telerik\StringsAndTextProcessing\20 ExtractPalindromes\obj\Debug\20 ExtractPalindromes.pdb

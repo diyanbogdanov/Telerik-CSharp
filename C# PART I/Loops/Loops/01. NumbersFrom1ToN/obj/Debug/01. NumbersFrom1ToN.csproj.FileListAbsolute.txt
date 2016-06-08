@@ -1,0 +1,1 @@
+F:\Telerik\C# PART I\Loops\Loops\01. NumbersFrom1ToN\bin\Debug\_01.NumbersFrom1ToN.exe.config

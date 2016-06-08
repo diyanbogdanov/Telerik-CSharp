@@ -1,0 +1,5 @@
+F:\Telerik\StringsAndTextProcessing\17. AddHoursAndMinutes\bin\Debug\_17.AddHoursAndMinutes.exe.config
+F:\Telerik\StringsAndTextProcessing\17. AddHoursAndMinutes\bin\Debug\_17.AddHoursAndMinutes.exe
+F:\Telerik\StringsAndTextProcessing\17. AddHoursAndMinutes\bin\Debug\_17.AddHoursAndMinutes.pdb
+F:\Telerik\StringsAndTextProcessing\17. AddHoursAndMinutes\obj\Debug\_17.AddHoursAndMinutes.exe
+F:\Telerik\StringsAndTextProcessing\17. AddHoursAndMinutes\obj\Debug\_17.AddHoursAndMinutes.pdb

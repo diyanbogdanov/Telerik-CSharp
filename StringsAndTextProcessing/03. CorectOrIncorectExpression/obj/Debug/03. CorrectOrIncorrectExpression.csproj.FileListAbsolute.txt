@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\03. CorectOrIncorectExpression\bin\Debug\_03.CorectOrIncorectExpression.exe.config
+F:\Telerik\StringsAndTextProcessing\03. CorectOrIncorectExpression\bin\Debug\_03.CorectOrIncorectExpression.exe
+F:\Telerik\StringsAndTextProcessing\03. CorectOrIncorectExpression\bin\Debug\_03.CorectOrIncorectExpression.pdb
+F:\Telerik\StringsAndTextProcessing\03. CorectOrIncorectExpression\obj\Debug\_03.CorectOrIncorectExpression.exe
+F:\Telerik\StringsAndTextProcessing\03. CorectOrIncorectExpression\obj\Debug\_03.CorectOrIncorectExpression.pdb
+F:\Telerik\StringsAndTextProcessing\03. CorectOrIncorectExpression\obj\Debug\03. CorrectOrIncorrectExpression.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe.config
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.csprojResolveAssemblyReference.cache
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.pdb
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.exe
+D:\Documents\Projects C#\Telerik C# - 2\ZZZ tes solution\Milhouse\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.pdb
+C:\Users\Dian\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Milhouse v.2\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe.config
+C:\Users\Dian\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Milhouse v.2\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.exe
+C:\Users\Dian\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Milhouse v.2\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.pdb
+C:\Users\Dian\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Milhouse v.2\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe
+C:\Users\Dian\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Milhouse v.2\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.pdb
+C:\Users\Dian\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\Milhouse v.2\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.csprojResolveAssemblyReference.cache
+F:\Telerik\Milhouse v.2\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe.config
+F:\Telerik\Milhouse v.2\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.exe
+F:\Telerik\Milhouse v.2\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.pdb
+F:\Telerik\Milhouse v.2\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.exe
+F:\Telerik\Milhouse v.2\WentTheHorseIntoTheRiver\bin\Debug\WentTheHorseIntoTheRiver.pdb
+F:\Telerik\Milhouse v.2\WentTheHorseIntoTheRiver\obj\Debug\WentTheHorseIntoTheRiver.csprojResolveAssemblyReference.cache

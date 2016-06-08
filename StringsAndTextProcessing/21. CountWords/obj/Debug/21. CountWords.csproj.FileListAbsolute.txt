@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\21. CountWords\bin\Debug\_21.CountWords.exe.config
+F:\Telerik\StringsAndTextProcessing\21. CountWords\bin\Debug\_21.CountWords.exe
+F:\Telerik\StringsAndTextProcessing\21. CountWords\bin\Debug\_21.CountWords.pdb
+F:\Telerik\StringsAndTextProcessing\21. CountWords\obj\Debug\21. CountWords.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\21. CountWords\obj\Debug\_21.CountWords.exe
+F:\Telerik\StringsAndTextProcessing\21. CountWords\obj\Debug\_21.CountWords.pdb

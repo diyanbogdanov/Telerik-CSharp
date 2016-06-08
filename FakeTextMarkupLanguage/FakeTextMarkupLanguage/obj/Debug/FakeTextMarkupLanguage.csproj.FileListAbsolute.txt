@@ -1,0 +1,6 @@
+F:\Telerik\FakeTextMarkupLanguage\FakeTextMarkupLanguage\bin\Debug\FakeTextMarkupLanguage.exe.config
+F:\Telerik\FakeTextMarkupLanguage\FakeTextMarkupLanguage\obj\Debug\FakeTextMarkupLanguage.csprojResolveAssemblyReference.cache
+F:\Telerik\FakeTextMarkupLanguage\FakeTextMarkupLanguage\bin\Debug\FakeTextMarkupLanguage.exe
+F:\Telerik\FakeTextMarkupLanguage\FakeTextMarkupLanguage\bin\Debug\FakeTextMarkupLanguage.pdb
+F:\Telerik\FakeTextMarkupLanguage\FakeTextMarkupLanguage\obj\Debug\FakeTextMarkupLanguage.exe
+F:\Telerik\FakeTextMarkupLanguage\FakeTextMarkupLanguage\obj\Debug\FakeTextMarkupLanguage.pdb

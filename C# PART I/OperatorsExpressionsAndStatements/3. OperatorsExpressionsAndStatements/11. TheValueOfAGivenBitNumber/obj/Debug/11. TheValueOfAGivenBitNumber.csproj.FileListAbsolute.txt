@@ -1,0 +1,1 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\11. TheValueOfAGivenBitNumber\bin\Debug\_11.TheValueOfAGivenBitNumber.exe.config

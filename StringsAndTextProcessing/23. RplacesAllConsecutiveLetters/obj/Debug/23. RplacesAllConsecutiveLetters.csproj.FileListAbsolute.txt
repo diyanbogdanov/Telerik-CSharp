@@ -1,0 +1,5 @@
+F:\Telerik\StringsAndTextProcessing\23. RplacesAllConsecutiveLetters\bin\Debug\_23.RplacesAllConsecutiveLetters.exe.config
+F:\Telerik\StringsAndTextProcessing\23. RplacesAllConsecutiveLetters\bin\Debug\_23.RplacesAllConsecutiveLetters.exe
+F:\Telerik\StringsAndTextProcessing\23. RplacesAllConsecutiveLetters\bin\Debug\_23.RplacesAllConsecutiveLetters.pdb
+F:\Telerik\StringsAndTextProcessing\23. RplacesAllConsecutiveLetters\obj\Debug\_23.RplacesAllConsecutiveLetters.exe
+F:\Telerik\StringsAndTextProcessing\23. RplacesAllConsecutiveLetters\obj\Debug\_23.RplacesAllConsecutiveLetters.pdb

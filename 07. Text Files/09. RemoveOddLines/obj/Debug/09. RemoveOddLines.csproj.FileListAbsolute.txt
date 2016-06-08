@@ -1,0 +1,5 @@
+F:\Telerik\07. Text Files\09. RemoveOddLines\bin\Debug\_09.RemoveOddLines.exe.config
+F:\Telerik\07. Text Files\09. RemoveOddLines\bin\Debug\_09.RemoveOddLines.exe
+F:\Telerik\07. Text Files\09. RemoveOddLines\bin\Debug\_09.RemoveOddLines.pdb
+F:\Telerik\07. Text Files\09. RemoveOddLines\obj\Debug\_09.RemoveOddLines.exe
+F:\Telerik\07. Text Files\09. RemoveOddLines\obj\Debug\_09.RemoveOddLines.pdb

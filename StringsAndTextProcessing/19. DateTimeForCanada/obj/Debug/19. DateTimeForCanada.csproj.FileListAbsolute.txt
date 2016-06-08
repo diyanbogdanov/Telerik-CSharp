@@ -1,0 +1,5 @@
+F:\Telerik\StringsAndTextProcessing\19. DateTimeForCanada\bin\Debug\_19.DateTimeForCanada.exe.config
+F:\Telerik\StringsAndTextProcessing\19. DateTimeForCanada\bin\Debug\_19.DateTimeForCanada.exe
+F:\Telerik\StringsAndTextProcessing\19. DateTimeForCanada\bin\Debug\_19.DateTimeForCanada.pdb
+F:\Telerik\StringsAndTextProcessing\19. DateTimeForCanada\obj\Debug\_19.DateTimeForCanada.exe
+F:\Telerik\StringsAndTextProcessing\19. DateTimeForCanada\obj\Debug\_19.DateTimeForCanada.pdb

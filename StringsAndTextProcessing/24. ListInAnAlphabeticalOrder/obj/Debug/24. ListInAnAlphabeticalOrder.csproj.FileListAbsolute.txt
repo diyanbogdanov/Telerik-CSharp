@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\24. ListInAnAlphabeticalOrder\bin\Debug\_24.ListInAnAlphabeticalOrder.exe.config
+F:\Telerik\StringsAndTextProcessing\24. ListInAnAlphabeticalOrder\bin\Debug\_24.ListInAnAlphabeticalOrder.exe
+F:\Telerik\StringsAndTextProcessing\24. ListInAnAlphabeticalOrder\bin\Debug\_24.ListInAnAlphabeticalOrder.pdb
+F:\Telerik\StringsAndTextProcessing\24. ListInAnAlphabeticalOrder\obj\Debug\24. ListInAnAlphabeticalOrder.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\24. ListInAnAlphabeticalOrder\obj\Debug\_24.ListInAnAlphabeticalOrder.exe
+F:\Telerik\StringsAndTextProcessing\24. ListInAnAlphabeticalOrder\obj\Debug\_24.ListInAnAlphabeticalOrder.pdb

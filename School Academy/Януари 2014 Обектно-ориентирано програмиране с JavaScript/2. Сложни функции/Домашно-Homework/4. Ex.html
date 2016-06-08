@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ex-4</title>
+</head>
+<body>
+    <div class="tree-view"></div>
+    <script>
+        var controls = (function () {
+
+            function TreeNode(parent) {
+                var item = createElement();
+                parent.appendChild(item);
+
+                function addNode() {
+                    var subtree = item.querySelector("ul");
+                    if (!subtree) {
+                        subtree = document.createElement("ul");
+                        subtree.style.listStyleType = "none";
+                        item.appendChild(subtree);
+                    }
+
+                    var newNode = new TreeNode(subtree);
+                    return newNode;
+                }
+
+                function createElement() {
+                    var element = document.createElement("li");
+                    element.treeNode = this;
+                    return element;
+                }
+
+                function content(text) {
+                    var elementA = document.createElement('A');
+                    elementA.innerHTML = text;
+                    elementA.href = "#";
+                    item.appendChild(elementA);
+                }
+
+                return {
+                    addNode: addNode,
+                    content: content
+                };
+            };
+
+            function treeView(text) {
+                var root = document.createElement('ul');
+                root.style.listStyleType = "none";
+
+                var parent = document.querySelector(text);
+                parent.appendChild(root);
+
+                function addNode() {
+                    var node = new TreeNode(root);
+                    return node;
+                }
+
+                return {
+                    addNode: addNode,
+                }
+            };
+
+            return {
+                treeView: treeView,
+            };
+        })();
+
+        var treeView = controls.treeView("div.tree-view");
+        var jsNode = treeView.addNode();
+        jsNode.content("JavaScript");
+        var js1subnode = jsNode.addNode();
+        js1subnode.content("JavaScript - part 1");
+        var js2subnode = jsNode.addNode();
+        js2subnode.content("JavaScript - part 2");
+        var jslibssubnode = jsNode.addNode();
+        jslibssubnode.content("JS Libraries");
+        var jsframeworksnode = jsNode.addNode();
+        jsframeworksnode.content("JS Frameworks and UI");
+        var webnode = treeView.addNode();
+        webnode.content("Web");
+    </script>
+</body>
+</html>

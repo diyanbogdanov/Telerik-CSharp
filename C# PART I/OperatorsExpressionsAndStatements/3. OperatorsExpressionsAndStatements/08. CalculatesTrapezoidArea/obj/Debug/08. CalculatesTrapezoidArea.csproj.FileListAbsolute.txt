@@ -1,0 +1,1 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\08. CalculatesTrapezoidArea\bin\Debug\_08.CalculatesTrapezoidArea.exe.config

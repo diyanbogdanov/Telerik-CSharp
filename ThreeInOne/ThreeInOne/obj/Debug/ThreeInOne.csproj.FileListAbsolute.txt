@@ -1,0 +1,6 @@
+F:\Telerik\ThreeInOne\ThreeInOne\bin\Debug\ThreeInOne.exe.config
+F:\Telerik\ThreeInOne\ThreeInOne\obj\Debug\ThreeInOne.csprojResolveAssemblyReference.cache
+F:\Telerik\ThreeInOne\ThreeInOne\bin\Debug\ThreeInOne.exe
+F:\Telerik\ThreeInOne\ThreeInOne\bin\Debug\ThreeInOne.pdb
+F:\Telerik\ThreeInOne\ThreeInOne\obj\Debug\ThreeInOne.exe
+F:\Telerik\ThreeInOne\ThreeInOne\obj\Debug\ThreeInOne.pdb

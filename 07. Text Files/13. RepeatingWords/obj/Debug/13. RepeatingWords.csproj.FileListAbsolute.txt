@@ -1,0 +1,5 @@
+F:\Telerik\07. Text Files\13. RepeatingWords\bin\Debug\_13.RepeatingWords.exe.config
+F:\Telerik\07. Text Files\13. RepeatingWords\bin\Debug\_13.RepeatingWords.exe
+F:\Telerik\07. Text Files\13. RepeatingWords\bin\Debug\_13.RepeatingWords.pdb
+F:\Telerik\07. Text Files\13. RepeatingWords\obj\Debug\_13.RepeatingWords.exe
+F:\Telerik\07. Text Files\13. RepeatingWords\obj\Debug\_13.RepeatingWords.pdb

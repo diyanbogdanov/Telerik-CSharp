@@ -1,0 +1,6 @@
+F:\Telerik\CSharpTestSeptemberPart1\1. Zerg!!!\bin\Debug\_1.Zerg___.exe.config
+F:\Telerik\CSharpTestSeptemberPart1\1. Zerg!!!\obj\Debug\1. Zerg!!!.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpTestSeptemberPart1\1. Zerg!!!\bin\Debug\_1.Zerg___.exe
+F:\Telerik\CSharpTestSeptemberPart1\1. Zerg!!!\bin\Debug\_1.Zerg___.pdb
+F:\Telerik\CSharpTestSeptemberPart1\1. Zerg!!!\obj\Debug\_1.Zerg___.exe
+F:\Telerik\CSharpTestSeptemberPart1\1. Zerg!!!\obj\Debug\_1.Zerg___.pdb

@@ -1,0 +1,5 @@
+F:\Telerik\07. Text Files\04. CompareTwoTextFiles\bin\Debug\_04.CompareTwoTextFiles.exe.config
+F:\Telerik\07. Text Files\04. CompareTwoTextFiles\bin\Debug\_04.CompareTwoTextFiles.exe
+F:\Telerik\07. Text Files\04. CompareTwoTextFiles\bin\Debug\_04.CompareTwoTextFiles.pdb
+F:\Telerik\07. Text Files\04. CompareTwoTextFiles\obj\Debug\_04.CompareTwoTextFiles.exe
+F:\Telerik\07. Text Files\04. CompareTwoTextFiles\obj\Debug\_04.CompareTwoTextFiles.pdb

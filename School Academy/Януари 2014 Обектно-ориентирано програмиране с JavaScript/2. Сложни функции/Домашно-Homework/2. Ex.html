@@ -1,0 +1,272 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ex-1</title>
+    <style type="text/css">
+        #rectPath {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 50%;
+            height: 100%;
+            background-color: grey;
+        }
+
+        #circlePath {
+            position: absolute;
+            left: 50%;
+            top: 0;
+            width: 50%;
+            height: 100%;
+            background-color: lightyellow;
+        }
+    </style>
+</head>
+<body>
+    <div id="screenToDraw">
+        <div id="rectPath">
+            <button id="addRectButton">Add rectangular</button>
+            <br />
+            <span id="rectSpeed"></span>
+            <button id="speedUpRectButton">Speed UP</button>
+            <button id="speedDownRectButton">Speed DOWN</button>
+        </div>
+        <div id="circlePath">
+            <button id="addCirButton">Add circular</button>
+            <br />
+            <span id="circSpeed"></span>
+            <button id="speedUpCircButton">Speed UP</button>
+            <button id="speedDownCircButton">Speed DOWN</button>
+        </div>
+    </div>
+    <script>
+        var rectSpeed, circSpeed;
+
+        rectSpeed = 1;
+        circSpeed = 1;
+
+        var rectSpeedSpan = document.getElementById("rectSpeed");
+        var circSpeedSpan = document.getElementById("circSpeed");
+
+        rectSpeedSpan.innerText = rectSpeed;
+        circSpeedSpan.innerText = circSpeed;
+
+        var movingShapes = (function () {
+
+            var divWidth, divHeight;
+
+            divWidth = 50;
+            divHeight = 50;
+
+            function elementCircle(x,y,r) {
+                this.x = x;
+                this.y = y;
+                this.r = r;
+                this.elements = [];
+                this.element = document.createElement('div');
+
+                var style = this.element.style;
+                style.width = 2 * r + 'px';
+                style.height = 2 * r + 'px';
+                style.position = 'absolute';
+                style.left = x - r + 'px';
+                style.top = y - r + 'px';
+                style.borderRadius = '50%';
+                style.borderColor = 'black';
+                style.borderWidth = '1px';
+                style.borderStyle = 'solid';
+            }
+
+            elementCircle.prototype = {
+                addElement: function (newElement) {
+                    this.element.appendChild(newElement);
+                    this.elements.push(newElement);
+                    newElement.setAttribute('data-degrees', 0);
+                    return this;
+                },
+                moveElements: function () {
+                    for (var i = 0, length = this.elements.length; i < length; i += 1) {
+                        var element = this.elements[i];
+                        var degrees = (parseFloat(element.getAttribute('data-degrees')) + circSpeed) % 360;
+
+                        element.setAttribute('data-degrees', degrees);
+
+                        var x = this.r * Math.cos(degrees * Math.PI / 180),
+                          y = this.r * Math.sin(degrees * Math.PI / 180);
+
+                        element.style.left = x - parseInt(element.style.width, 10) / 2 + this.r + 'px';
+                        element.style.top = y - parseInt(element.style.height, 10) / 2 + this.r + 'px';
+                    }
+                },
+                render: function () {
+                    document.getElementById("circlePath").appendChild(this.element);
+                    return this;
+                }
+            };
+
+            function elementRect(x,y,h,w) {
+                this.x = x;
+                this.y = y;
+                this.h = h;
+                this.w = w;
+                this.perimeter = w * 2 + h * 2;
+                this.elements = [];
+                this.element = document.createElement('div');
+
+                var style = this.element.style;
+                style.width = w + 'px';
+                style.height = h + 'px';
+                style.position = 'absolute';
+                style.left = x + 'px';
+                style.top = y + 'px';
+                style.borderColor = 'black';
+                style.borderWidth = '1px';
+                style.borderStyle = 'solid';
+            }
+
+            elementRect.prototype = {
+                addElement: function (newElement) {
+                    this.element.appendChild(newElement);
+                    this.elements.push(newElement);
+                    newElement.setAttribute('data-currentPosition', 0);
+                    return this;
+                },
+                moveElements: function () {
+                    for (var i = 0, length = this.elements.length; i < length; i += 1) {
+                        var element = this.elements[i];
+                        var position = (parseFloat(element.getAttribute('data-currentPosition')) + rectSpeed) % this.perimeter;
+
+                        element.setAttribute('data-currentPosition', position);
+
+                        var x, y;
+
+                        if (position < this.w) {
+                            x = position;
+                            y = 0;
+
+                        } else if (position < this.w + this.h) {
+                            x = this.w;
+                            y = position - this.w;
+
+                        } else if (position < this.w * 2 + this.h) {
+                            x = (this.w * 2 + this.h) - position;
+                            y = this.h;
+
+                        } else if (position < this.w * 2 + this.h * 2) {
+                            x = 0;
+                            y = this.perimeter - position;
+
+                        } else {
+                            x = 0;
+                            y = 0;
+
+                        }
+
+                        element.style.left = x - parseInt(element.style.width, 10) / 2 + 'px';
+                        element.style.top = y - parseInt(element.style.height, 10) / 2 + 'px';
+                    }
+                },
+                render: function () {
+                    document.getElementById("rectPath").appendChild(this.element);
+                    return this;
+                }
+            };
+
+            function randomColor() {
+                var letters = '0123456789ABCDEF'.split('');
+                var color = '#';
+                for (var i = 0; i < 6; i++) {
+                    color += letters[Math.floor(Math.random() * 16)];
+                }
+                return color;
+            }
+
+            function createDivElement() {
+                var divFontColor = randomColor();
+                var div = document.createElement("div");
+                div.textContent = "div";
+                div.style.border = (randomColor() + " 1px solid");
+                div.style.backgroundColor = randomColor();
+                div.style.width = (divWidth + "px");
+                div.style.height = (divHeight + "px");
+                div.style.textAlign = "center";
+                div.style.position = 'absolute';
+
+                return div;
+            }            
+
+            var hRect = 200;
+            var wRect = 300;
+            var xRectPosition = ((window.innerWidth / 2) - wRect) / 2;
+            var yRectPosition = 100;
+
+            var rectangle = new elementRect(xRectPosition, yRectPosition, hRect, wRect).addElement(createDivElement()).render();
+
+            var xCirc = 200;
+            var yCirc = 200;
+            var rCirc = 100;
+
+            var circle = new elementCircle(xCirc,yCirc,rCirc).addElement(createDivElement()).render();
+
+            window.requestAnimFrame = window.requestAnimationFrame ||
+                                      window.webkitRequestAnimationFrame ||
+                                      window.mozRequestAnimationFrame;
+
+            (function animloop() {
+                window.requestAnimFrame(animloop);
+                render();
+            })();
+
+            function render() {
+                circle.moveElements();
+                rectangle.moveElements();
+            }
+
+            function add(movingMovement) {
+                if (movingMovement == "rectangular") {
+                    rectangle.addElement(createDivElement());
+                } else {
+                    circle.addElement(createDivElement());
+                }
+            }
+
+            return {
+                add: add,
+            };
+        })();
+
+        document.getElementById("addRectButton").addEventListener('click', function () {
+            movingShapes.add("rectangular");
+        });
+
+        document.getElementById("speedUpRectButton").addEventListener('click', function () {
+            rectSpeed+=5;
+            rectSpeedSpan.innerText = rectSpeed;
+        });
+
+        document.getElementById("speedDownRectButton").addEventListener('click', function () {
+            if (rectSpeed > 0) {
+                rectSpeed--;
+                rectSpeedSpan.innerText = rectSpeed;
+            }            
+        });
+
+        document.getElementById("addCirButton").addEventListener('click', function () {
+            movingShapes.add("circular");
+        });
+
+        document.getElementById("speedUpCircButton").addEventListener('click', function () {
+            circSpeed+= 5;
+            circSpeedSpan.innerText = circSpeed;
+        });
+
+        document.getElementById("speedDownCircButton").addEventListener('click', function () {
+            if (circSpeed > 0) {
+                circSpeed--;
+                circSpeedSpan.innerText = circSpeed;
+            }
+        });
+    </script>
+</body>
+</html>

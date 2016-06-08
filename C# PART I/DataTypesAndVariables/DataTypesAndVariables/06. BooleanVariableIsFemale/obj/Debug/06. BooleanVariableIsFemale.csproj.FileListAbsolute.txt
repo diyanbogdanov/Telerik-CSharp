@@ -1,0 +1,1 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\06. BooleanVariableIsFemale\bin\Debug\_06.BooleanVariableIsFemale.exe.config

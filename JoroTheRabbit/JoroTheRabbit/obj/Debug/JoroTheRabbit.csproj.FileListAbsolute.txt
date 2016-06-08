@@ -1,0 +1,6 @@
+F:\Telerik\JoroTheRabbit\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe.config
+F:\Telerik\JoroTheRabbit\JoroTheRabbit\obj\Debug\JoroTheRabbit.csprojResolveAssemblyReference.cache
+F:\Telerik\JoroTheRabbit\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe
+F:\Telerik\JoroTheRabbit\JoroTheRabbit\bin\Debug\JoroTheRabbit.pdb
+F:\Telerik\JoroTheRabbit\JoroTheRabbit\obj\Debug\JoroTheRabbit.exe
+F:\Telerik\JoroTheRabbit\JoroTheRabbit\obj\Debug\JoroTheRabbit.pdb

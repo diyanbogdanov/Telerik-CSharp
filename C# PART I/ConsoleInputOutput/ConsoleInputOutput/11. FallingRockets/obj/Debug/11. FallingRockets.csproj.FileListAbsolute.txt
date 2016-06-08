@@ -1,0 +1,6 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\ConsoleInputOutput\11. FallingRockets\bin\Debug\_11.FallingRockets.exe.config
+F:\Telerik\C# PART I\DataTypesAndVariables\ConsoleInputOutput\11. FallingRockets\bin\Debug\_11.FallingRockets.exe
+F:\Telerik\C# PART I\DataTypesAndVariables\ConsoleInputOutput\11. FallingRockets\bin\Debug\_11.FallingRockets.pdb
+F:\Telerik\C# PART I\DataTypesAndVariables\ConsoleInputOutput\11. FallingRockets\obj\Debug\11. FallingRockets.csprojResolveAssemblyReference.cache
+F:\Telerik\C# PART I\DataTypesAndVariables\ConsoleInputOutput\11. FallingRockets\obj\Debug\_11.FallingRockets.exe
+F:\Telerik\C# PART I\DataTypesAndVariables\ConsoleInputOutput\11. FallingRockets\obj\Debug\_11.FallingRockets.pdb

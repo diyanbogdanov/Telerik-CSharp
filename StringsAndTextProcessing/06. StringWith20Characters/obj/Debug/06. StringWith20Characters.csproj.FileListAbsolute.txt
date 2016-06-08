@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\06. StringWith20Characters\bin\Debug\_06.StringWith20Characters.exe.config
+F:\Telerik\StringsAndTextProcessing\06. StringWith20Characters\bin\Debug\_06.StringWith20Characters.exe
+F:\Telerik\StringsAndTextProcessing\06. StringWith20Characters\bin\Debug\_06.StringWith20Characters.pdb
+F:\Telerik\StringsAndTextProcessing\06. StringWith20Characters\obj\Debug\06. StringWith20Characters.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\06. StringWith20Characters\obj\Debug\_06.StringWith20Characters.exe
+F:\Telerik\StringsAndTextProcessing\06. StringWith20Characters\obj\Debug\_06.StringWith20Characters.pdb

@@ -1,0 +1,6 @@
+F:\Telerik\DrunkenNumbers\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+F:\Telerik\DrunkenNumbers\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+F:\Telerik\DrunkenNumbers\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+F:\Telerik\DrunkenNumbers\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache
+F:\Telerik\DrunkenNumbers\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+F:\Telerik\DrunkenNumbers\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

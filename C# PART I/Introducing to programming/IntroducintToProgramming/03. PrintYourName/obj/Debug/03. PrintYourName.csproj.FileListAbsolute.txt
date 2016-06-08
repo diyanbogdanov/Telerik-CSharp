@@ -1,0 +1,5 @@
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\03. PrintYourName\bin\Debug\_03.PrintYourName.exe.config
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\03. PrintYourName\bin\Debug\_03.PrintYourName.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\03. PrintYourName\bin\Debug\_03.PrintYourName.pdb
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\03. PrintYourName\obj\Debug\_03.PrintYourName.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\03. PrintYourName\obj\Debug\_03.PrintYourName.pdb

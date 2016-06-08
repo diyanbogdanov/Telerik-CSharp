@@ -1,0 +1,5 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\14. BitExchangeLoop\bin\Debug\_14.BitExchangeLoop.exe.config
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\14. BitExchangeLoop\bin\Debug\_14.BitExchangeLoop.exe
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\14. BitExchangeLoop\bin\Debug\_14.BitExchangeLoop.pdb
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\14. BitExchangeLoop\obj\Debug\_14.BitExchangeLoop.exe
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\14. BitExchangeLoop\obj\Debug\_14.BitExchangeLoop.pdb

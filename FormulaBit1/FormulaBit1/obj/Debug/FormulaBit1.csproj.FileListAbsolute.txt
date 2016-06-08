@@ -1,0 +1,6 @@
+F:\Telerik\FormulaBit1\FormulaBit1\bin\Debug\FormulaBit1.exe.config
+F:\Telerik\FormulaBit1\FormulaBit1\obj\Debug\FormulaBit1.csprojResolveAssemblyReference.cache
+F:\Telerik\FormulaBit1\FormulaBit1\bin\Debug\FormulaBit1.exe
+F:\Telerik\FormulaBit1\FormulaBit1\bin\Debug\FormulaBit1.pdb
+F:\Telerik\FormulaBit1\FormulaBit1\obj\Debug\FormulaBit1.exe
+F:\Telerik\FormulaBit1\FormulaBit1\obj\Debug\FormulaBit1.pdb

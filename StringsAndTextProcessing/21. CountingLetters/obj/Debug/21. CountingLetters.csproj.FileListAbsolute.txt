@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\21. CountingLetters\bin\Debug\_21.CountingLetters.exe.config
+F:\Telerik\StringsAndTextProcessing\21. CountingLetters\bin\Debug\_21.CountingLetters.exe
+F:\Telerik\StringsAndTextProcessing\21. CountingLetters\bin\Debug\_21.CountingLetters.pdb
+F:\Telerik\StringsAndTextProcessing\21. CountingLetters\obj\Debug\21. CountingLetters.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\21. CountingLetters\obj\Debug\_21.CountingLetters.exe
+F:\Telerik\StringsAndTextProcessing\21. CountingLetters\obj\Debug\_21.CountingLetters.pdb

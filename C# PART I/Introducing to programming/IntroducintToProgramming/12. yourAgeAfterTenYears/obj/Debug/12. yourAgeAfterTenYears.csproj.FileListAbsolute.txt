@@ -1,0 +1,5 @@
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\12. yourAgeAfterTenYears\bin\Debug\_12.yourAgeAfterTenYears.exe.config
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\12. yourAgeAfterTenYears\bin\Debug\_12.yourAgeAfterTenYears.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\12. yourAgeAfterTenYears\bin\Debug\_12.yourAgeAfterTenYears.pdb
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\12. yourAgeAfterTenYears\obj\Debug\_12.yourAgeAfterTenYears.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\12. yourAgeAfterTenYears\obj\Debug\_12.yourAgeAfterTenYears.pdb

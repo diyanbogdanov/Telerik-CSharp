@@ -1,0 +1,6 @@
+F:\Telerik\SpecialValues\SpecialValues\bin\Debug\SpecialValues.exe.config
+F:\Telerik\SpecialValues\SpecialValues\obj\Debug\SpecialValues.csprojResolveAssemblyReference.cache
+F:\Telerik\SpecialValues\SpecialValues\bin\Debug\SpecialValues.exe
+F:\Telerik\SpecialValues\SpecialValues\bin\Debug\SpecialValues.pdb
+F:\Telerik\SpecialValues\SpecialValues\obj\Debug\SpecialValues.exe
+F:\Telerik\SpecialValues\SpecialValues\obj\Debug\SpecialValues.pdb

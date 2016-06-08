@@ -1,0 +1,1 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\02. DivideByFiveAndSeven\bin\Debug\_02.DivideByFiveAndSeven.exe.config

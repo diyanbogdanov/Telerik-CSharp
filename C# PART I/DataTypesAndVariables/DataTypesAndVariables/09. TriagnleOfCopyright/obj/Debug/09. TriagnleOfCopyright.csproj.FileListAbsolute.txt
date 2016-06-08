@@ -1,0 +1,5 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\09. TriagnleOfCopyright\bin\Debug\_09.TriagnleOfCopyright.exe.config
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\09. TriagnleOfCopyright\bin\Debug\_09.TriagnleOfCopyright.exe
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\09. TriagnleOfCopyright\bin\Debug\_09.TriagnleOfCopyright.pdb
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\09. TriagnleOfCopyright\obj\Debug\_09.TriagnleOfCopyright.exe
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\09. TriagnleOfCopyright\obj\Debug\_09.TriagnleOfCopyright.pdb

@@ -1,0 +1,13 @@
+F:\Telerik\Test\Test\bin\Debug\Test.exe.config
+F:\Telerik\Test\Test\bin\Debug\Test.exe
+F:\Telerik\Test\Test\bin\Debug\Test.pdb
+F:\Telerik\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Telerik\Test\Test\obj\Debug\Test.Forms.logIn.resources
+F:\Telerik\Test\Test\obj\Debug\Test.MainForm.resources
+F:\Telerik\Test\Test\obj\Debug\Test.Properties.Resources.resources
+F:\Telerik\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\Telerik\Test\Test\obj\Debug\Test.exe
+F:\Telerik\Test\Test\obj\Debug\Test.pdb
+F:\Telerik\Test\Test\bin\Debug\Database.mdf
+F:\Telerik\Test\Test\bin\Debug\Database_log.ldf
+F:\Telerik\Test\Test\obj\Debug\Test.Form1.resources

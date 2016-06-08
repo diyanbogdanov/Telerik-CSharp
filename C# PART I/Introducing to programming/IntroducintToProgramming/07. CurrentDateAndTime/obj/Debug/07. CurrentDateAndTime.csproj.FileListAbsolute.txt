@@ -1,0 +1,5 @@
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\07. CurrentDateAndTime\bin\Debug\_07.CurrentDateAndTime.exe.config
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\07. CurrentDateAndTime\bin\Debug\_07.CurrentDateAndTime.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\07. CurrentDateAndTime\bin\Debug\_07.CurrentDateAndTime.pdb
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\07. CurrentDateAndTime\obj\Debug\_07.CurrentDateAndTime.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\07. CurrentDateAndTime\obj\Debug\_07.CurrentDateAndTime.pdb

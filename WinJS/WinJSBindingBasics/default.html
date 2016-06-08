@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>WinJSBindingBasics</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- WinJSBindingBasics references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="js/data.js"></script>
+    <script src="/js/default.js"></script>
+</head>
+<body>
+    <div id="bound-to-global">
+        <img src="#" data-win-bind="src: Data.computer.imageUrl" height="300" width="300" />
+        <dl>
+            <dt>Name</dt>
+            <dd data-win-bind="innerText: Data.computer.name">the name</dd>
+            <dt>Processor</dt>
+            <dd>
+                <dl>
+                    <dt>Model</dt>
+                    <dd data-win-bind="innerText: Data.computer.processor.modelName"></dd>
+                    <dt>Frequency</dt>
+                    <dd data-win-bind="innerText: Data.computer.processor.frequencyGHz"></dd>
+                </dl>
+            </dd>
+        </dl>
+    </div>
+    <div id="bound-to-object">
+        <img src="#" data-win-bind="src: imageUrl" height="300" width="300" />
+        <dl>
+            <dt>Name</dt>
+            <dd data-win-bind="innerText: name">the name</dd>
+            <dt>Processor</dt>
+            <dd>
+                <dl>
+                    <dt>CPU Model</dt>
+                    <dd data-win-bind="innerText: processor.modelName"></dd>
+                    <dt>Core Frequency</dt>
+                    <dd data-win-bind="innerText: processor.frequencyGHz"></dd>
+                </dl>
+            </dd>
+        </dl>
+    </div>
+</body>
+</html>

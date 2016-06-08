@@ -1,0 +1,5 @@
+F:\Telerik\07. Text Files\12. DeleteWords\bin\Debug\_12.DeleteWords.exe.config
+F:\Telerik\07. Text Files\12. DeleteWords\bin\Debug\_12.DeleteWords.exe
+F:\Telerik\07. Text Files\12. DeleteWords\bin\Debug\_12.DeleteWords.pdb
+F:\Telerik\07. Text Files\12. DeleteWords\obj\Debug\_12.DeleteWords.exe
+F:\Telerik\07. Text Files\12. DeleteWords\obj\Debug\_12.DeleteWords.pdb

@@ -1,0 +1,6 @@
+F:\Telerik\C# PART I\ConditionalStatements\ConditionalStatements\02. ShowTheSign+Or-\bin\Debug\ShowTheSign_Or_.exe.config
+F:\Telerik\C# PART I\ConditionalStatements\ConditionalStatements\02. ShowTheSign+Or-\bin\Debug\ShowTheSign_Or_.exe
+F:\Telerik\C# PART I\ConditionalStatements\ConditionalStatements\02. ShowTheSign+Or-\bin\Debug\ShowTheSign_Or_.pdb
+F:\Telerik\C# PART I\ConditionalStatements\ConditionalStatements\02. ShowTheSign+Or-\obj\Debug\02. ShowTheSign+Or-.csprojResolveAssemblyReference.cache
+F:\Telerik\C# PART I\ConditionalStatements\ConditionalStatements\02. ShowTheSign+Or-\obj\Debug\ShowTheSign_Or_.exe
+F:\Telerik\C# PART I\ConditionalStatements\ConditionalStatements\02. ShowTheSign+Or-\obj\Debug\ShowTheSign_Or_.pdb

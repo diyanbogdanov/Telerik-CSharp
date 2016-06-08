@@ -1,0 +1,5 @@
+F:\Telerik\07. Text Files\02. TwoFiles\bin\Debug\_02.TwoFiles.exe.config
+F:\Telerik\07. Text Files\02. TwoFiles\bin\Debug\_02.TwoFiles.exe
+F:\Telerik\07. Text Files\02. TwoFiles\bin\Debug\_02.TwoFiles.pdb
+F:\Telerik\07. Text Files\02. TwoFiles\obj\Debug\_02.TwoFiles.exe
+F:\Telerik\07. Text Files\02. TwoFiles\obj\Debug\_02.TwoFiles.pdb

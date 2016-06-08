@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\09. ReplaceTheWordWithAsterisks\bin\Debug\_09.ReplaceTheWordWithAsterisks.exe.config
+F:\Telerik\StringsAndTextProcessing\09. ReplaceTheWordWithAsterisks\obj\Debug\09. ReplaceTheWordWithAsterisks.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\09. ReplaceTheWordWithAsterisks\bin\Debug\_09.ReplaceTheWordWithAsterisks.exe
+F:\Telerik\StringsAndTextProcessing\09. ReplaceTheWordWithAsterisks\bin\Debug\_09.ReplaceTheWordWithAsterisks.pdb
+F:\Telerik\StringsAndTextProcessing\09. ReplaceTheWordWithAsterisks\obj\Debug\_09.ReplaceTheWordWithAsterisks.exe
+F:\Telerik\StringsAndTextProcessing\09. ReplaceTheWordWithAsterisks\obj\Debug\_09.ReplaceTheWordWithAsterisks.pdb

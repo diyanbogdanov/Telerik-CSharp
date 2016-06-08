@@ -1,0 +1,3 @@
+Burger: 3
+The: 2
+to: 2

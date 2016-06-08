@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\10. StringToUnicode\bin\Debug\_10.StringToUnicode.exe.config
+F:\Telerik\StringsAndTextProcessing\10. StringToUnicode\bin\Debug\_10.StringToUnicode.exe
+F:\Telerik\StringsAndTextProcessing\10. StringToUnicode\bin\Debug\_10.StringToUnicode.pdb
+F:\Telerik\StringsAndTextProcessing\10. StringToUnicode\obj\Debug\_10.StringToUnicode.exe
+F:\Telerik\StringsAndTextProcessing\10. StringToUnicode\obj\Debug\_10.StringToUnicode.pdb
+F:\Telerik\StringsAndTextProcessing\10. StringToUnicode\obj\Debug\10. StringToUnicode.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\12. ASCII\bin\Debug\_12.ASCII.exe.config
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\12. ASCII\bin\Debug\_12.ASCII.exe
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\12. ASCII\bin\Debug\_12.ASCII.pdb
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\12. ASCII\obj\Debug\12. ASCII.csprojResolveAssemblyReference.cache
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\12. ASCII\obj\Debug\_12.ASCII.exe
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\12. ASCII\obj\Debug\_12.ASCII.pdb

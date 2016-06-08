@@ -1,0 +1,6 @@
+F:\Telerik\Slides\Slides\bin\Debug\Slides.exe.config
+F:\Telerik\Slides\Slides\bin\Debug\Slides.exe
+F:\Telerik\Slides\Slides\bin\Debug\Slides.pdb
+F:\Telerik\Slides\Slides\obj\Debug\Slides.csprojResolveAssemblyReference.cache
+F:\Telerik\Slides\Slides\obj\Debug\Slides.exe
+F:\Telerik\Slides\Slides\obj\Debug\Slides.pdb

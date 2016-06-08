@@ -1,0 +1,6 @@
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\06. PrintFirstAndLastName\bin\Debug\_06.PrintFirstAndLastName.exe.config
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\06. PrintFirstAndLastName\bin\Debug\_06.PrintFirstAndLastName.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\06. PrintFirstAndLastName\bin\Debug\_06.PrintFirstAndLastName.pdb
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\06. PrintFirstAndLastName\obj\Debug\06. PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\06. PrintFirstAndLastName\obj\Debug\_06.PrintFirstAndLastName.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\06. PrintFirstAndLastName\obj\Debug\_06.PrintFirstAndLastName.pdb

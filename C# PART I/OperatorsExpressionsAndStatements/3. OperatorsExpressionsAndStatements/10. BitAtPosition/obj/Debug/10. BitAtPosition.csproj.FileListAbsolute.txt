@@ -1,0 +1,1 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\10. BitAtPosition\bin\Debug\_10.BitAtPosition.exe.config

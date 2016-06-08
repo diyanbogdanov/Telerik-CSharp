@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\13. ReverseString\bin\Debug\_13.ReverseString.exe.config
+F:\Telerik\StringsAndTextProcessing\13. ReverseString\bin\Debug\_13.ReverseString.exe
+F:\Telerik\StringsAndTextProcessing\13. ReverseString\bin\Debug\_13.ReverseString.pdb
+F:\Telerik\StringsAndTextProcessing\13. ReverseString\obj\Debug\13. ReverseString.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\13. ReverseString\obj\Debug\_13.ReverseString.exe
+F:\Telerik\StringsAndTextProcessing\13. ReverseString\obj\Debug\_13.ReverseString.pdb

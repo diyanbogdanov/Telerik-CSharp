@@ -1,0 +1,5 @@
+F:\Telerik\07. Text Files\06. SortNames\bin\Debug\_06.SortNames.exe.config
+F:\Telerik\07. Text Files\06. SortNames\bin\Debug\_06.SortNames.exe
+F:\Telerik\07. Text Files\06. SortNames\bin\Debug\_06.SortNames.pdb
+F:\Telerik\07. Text Files\06. SortNames\obj\Debug\_06.SortNames.exe
+F:\Telerik\07. Text Files\06. SortNames\obj\Debug\_06.SortNames.pdb

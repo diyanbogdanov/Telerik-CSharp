@@ -1,0 +1,6 @@
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\02. HelloCSharp\bin\Debug\_02.HelloCSharp.exe.config
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\02. HelloCSharp\bin\Debug\_02.HelloCSharp.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\02. HelloCSharp\bin\Debug\_02.HelloCSharp.pdb
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\02. HelloCSharp\obj\Debug\02. HelloCSharp.csprojResolveAssemblyReference.cache
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\02. HelloCSharp\obj\Debug\_02.HelloCSharp.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\02. HelloCSharp\obj\Debug\_02.HelloCSharp.pdb

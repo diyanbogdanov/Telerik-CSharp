@@ -1,0 +1,5 @@
+F:\Telerik\StringsAndTextProcessing\25. ExtractHTML\bin\Debug\_25.ExtractHTML.exe.config
+F:\Telerik\StringsAndTextProcessing\25. ExtractHTML\bin\Debug\_25.ExtractHTML.exe
+F:\Telerik\StringsAndTextProcessing\25. ExtractHTML\bin\Debug\_25.ExtractHTML.pdb
+F:\Telerik\StringsAndTextProcessing\25. ExtractHTML\obj\Debug\_25.ExtractHTML.exe
+F:\Telerik\StringsAndTextProcessing\25. ExtractHTML\obj\Debug\_25.ExtractHTML.pdb

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Ex-2</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+		var arr = [1,2,1,4,1,3,4,1,111,3,2,1,"1"];
+		jsConsole.writeLine(arr);
+		Array.prototype.remove = function(symbol) {
+			for (var i = 0; i < this.length; i++) {
+				if (this[i] == symbol) {
+					this.splice(i,1);
+				};
+			};
+		};
+		arr.remove(1);
+		jsConsole.writeLine(arr);						   
+	</script>
+</body>
+</html>

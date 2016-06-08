@@ -1,0 +1,5 @@
+F:\Telerik\CSharpTestSeptemberPart1\2. Moving Letters\bin\Debug\_2.Moving_Letters.exe.config
+F:\Telerik\CSharpTestSeptemberPart1\2. Moving Letters\bin\Debug\_2.Moving_Letters.exe
+F:\Telerik\CSharpTestSeptemberPart1\2. Moving Letters\bin\Debug\_2.Moving_Letters.pdb
+F:\Telerik\CSharpTestSeptemberPart1\2. Moving Letters\obj\Debug\_2.Moving_Letters.exe
+F:\Telerik\CSharpTestSeptemberPart1\2. Moving Letters\obj\Debug\_2.Moving_Letters.pdb

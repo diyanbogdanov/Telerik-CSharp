@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\04. SubstringIsContainedInText\bin\Debug\_04.SubstringIsContainedInText.exe.config
+F:\Telerik\StringsAndTextProcessing\04. SubstringIsContainedInText\obj\Debug\04. SubstringIsContainedInText.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\04. SubstringIsContainedInText\bin\Debug\_04.SubstringIsContainedInText.exe
+F:\Telerik\StringsAndTextProcessing\04. SubstringIsContainedInText\bin\Debug\_04.SubstringIsContainedInText.pdb
+F:\Telerik\StringsAndTextProcessing\04. SubstringIsContainedInText\obj\Debug\_04.SubstringIsContainedInText.exe
+F:\Telerik\StringsAndTextProcessing\04. SubstringIsContainedInText\obj\Debug\_04.SubstringIsContainedInText.pdb

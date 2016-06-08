@@ -1,0 +1,6 @@
+F:\Telerik\Multiverse Communication\Multiverse Communication\bin\Debug\Multiverse Communication.exe.config
+F:\Telerik\Multiverse Communication\Multiverse Communication\obj\Debug\Multiverse Communication.csprojResolveAssemblyReference.cache
+F:\Telerik\Multiverse Communication\Multiverse Communication\bin\Debug\Multiverse Communication.exe
+F:\Telerik\Multiverse Communication\Multiverse Communication\bin\Debug\Multiverse Communication.pdb
+F:\Telerik\Multiverse Communication\Multiverse Communication\obj\Debug\Multiverse Communication.exe
+F:\Telerik\Multiverse Communication\Multiverse Communication\obj\Debug\Multiverse Communication.pdb

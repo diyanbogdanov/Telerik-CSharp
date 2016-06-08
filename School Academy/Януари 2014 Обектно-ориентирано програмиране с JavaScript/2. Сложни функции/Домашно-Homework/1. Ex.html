@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ex-1</title>
+</head>
+<body>
+    <div id="wrapper"></div>
+    <script>
+        var domModule = (function () {
+
+            var fragmentBuffer = {};
+
+            var maxFragmentsInBuffer = 100;
+
+            function getElement(selector) {
+                return document.querySelector(selector);
+            }
+
+            function getElements(selector) {
+                return document.querySelectorAll(selector);
+            }
+
+            function appendChild(domElement, selector) {
+                document.querySelector(selector).appendChild(domElement);
+            }
+
+            function removeChild(domElement, selector) {
+                document.querySelector(selector).removeChild(document.querySelector(domElement));
+            }
+
+            function addHandler(selector, event, functionComands) {
+                document.querySelector(selector).addEventListener(event, functionComands);
+            }
+
+            function appendToBuffer(domElement, selector) {
+
+                if (!fragmentsBuffer[selector]) {
+                    fragmentsBuffer[selector] = document.createDocumentFragment();
+                }
+
+                var element = createElement(domElement);
+
+                fragmentsBuffer[selector].appendChild(element);
+
+                if (fragmentsBuffer[selector].childNodes.length === maxFragmentsInBuffer) {
+                    var parent = getElement(selector);
+                    parent.appendChild(fragmentsBuffer[selector]);
+                    fragmentsBuffer[parentSelector] = null;
+                }
+            }
+
+            return {
+                getElement: getElement,
+                getElements: getElements,
+                appendChild: appendChild,
+                removeChild: removeChild,
+                addHandler: addHandler,
+                appendToBuffer: appendToBuffer
+            };
+        })();
+
+        var div = document.createElement("div");
+        div.innerHTML = "Nested DIV";
+        div.id = "innerDiv";
+
+        var div2 = document.createElement("div");
+        div2.innerHTML = "Nested DIV2";
+        div2.id = "innerDiv2";
+
+        domModule.appendChild(div, "#wrapper");
+        domModule.appendChild(div2, "#wrapper");
+
+        domModule.removeChild("#innerDiv2", "#wrapper");
+
+        domModule.addHandler("#innerDiv", "click", function(){alert("Clicked")});
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\11. ReadAndPrintNumber\bin\Debug\_11.ReadAndPrintNumber.exe.config
+F:\Telerik\StringsAndTextProcessing\11. ReadAndPrintNumber\bin\Debug\_11.ReadAndPrintNumber.exe
+F:\Telerik\StringsAndTextProcessing\11. ReadAndPrintNumber\bin\Debug\_11.ReadAndPrintNumber.pdb
+F:\Telerik\StringsAndTextProcessing\11. ReadAndPrintNumber\obj\Debug\11. ReadAndPrintNumber.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\11. ReadAndPrintNumber\obj\Debug\_11.ReadAndPrintNumber.exe
+F:\Telerik\StringsAndTextProcessing\11. ReadAndPrintNumber\obj\Debug\_11.ReadAndPrintNumber.pdb

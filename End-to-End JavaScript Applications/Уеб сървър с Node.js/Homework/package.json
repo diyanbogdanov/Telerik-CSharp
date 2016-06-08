@@ -1,0 +1,12 @@
+{
+  "name": "FileUploadSystem",
+  "version": "0.0.1",
+  "description": "File upload system",
+  "main": "app.js",
+  "author": "Diyan Bogdanov",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.0.15",
+    "node-uuid": "^1.4.2"
+  }
+}

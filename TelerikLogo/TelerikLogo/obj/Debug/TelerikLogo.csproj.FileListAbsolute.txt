@@ -1,0 +1,6 @@
+F:\Telerik\TelerikLogo\TelerikLogo\bin\Debug\TelerikLogo.exe.config
+F:\Telerik\TelerikLogo\TelerikLogo\bin\Debug\TelerikLogo.exe
+F:\Telerik\TelerikLogo\TelerikLogo\bin\Debug\TelerikLogo.pdb
+F:\Telerik\TelerikLogo\TelerikLogo\obj\Debug\TelerikLogo.csprojResolveAssemblyReference.cache
+F:\Telerik\TelerikLogo\TelerikLogo\obj\Debug\TelerikLogo.exe
+F:\Telerik\TelerikLogo\TelerikLogo\obj\Debug\TelerikLogo.pdb

@@ -1,0 +1,209 @@
+﻿<Window x:Class="WPFCalculatro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculator" Height="325" Width="230"  Icon="icon.ico" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Window.Resources>
+        <Style x:Key="DissableButton" TargetType="Button">
+            <Setter Property="Foreground" Value="#1e395b"/>
+            <Setter Property="Margin"  Value="0,5,5,5"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border BorderBrush="#8e9cad" CornerRadius="2" BorderThickness="1">
+                            <Border BorderBrush="White" CornerRadius="2" BorderThickness="1">
+                                <Grid Background="#d4e0ed">
+                                    <ContentPresenter Content="{TemplateBinding Content}"
+                                ContentTemplate="{TemplateBinding ContentTemplate}"
+                                VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"/>
+                                </Grid>
+                            </Border>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="EnnableButton" TargetType="Button">
+            <Setter Property="Foreground" Value="#1e395b"/>
+            <Setter Property="Margin"  Value="0,0,5,5"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border BorderBrush="#8e9cad" CornerRadius="2" BorderThickness="1">
+                            <Border BorderBrush="White" CornerRadius="2" BorderThickness="1">
+                                <Grid>
+                                    <Grid.Background>
+                                        <LinearGradientBrush StartPoint="1,0">
+                                            <GradientStop Color="#eff5fb" Offset="0.5"/>
+                                            <GradientStop Color="#d5e0ee" Offset="0.5"/>
+                                        </LinearGradientBrush>
+                                    </Grid.Background>
+                                    <ContentPresenter Content="{TemplateBinding Content}"
+                                ContentTemplate="{TemplateBinding ContentTemplate}"
+                                VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"/>
+                                </Grid>
+                            </Border>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <LinearGradientBrush x:Key="TwoColorGradient" StartPoint="1,0">
+            <GradientStop Color="#f7fbff" Offset="0.5"/>
+            <GradientStop Color="#ebf3f9" Offset="0.5"/>
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="FourColorGradient" StartPoint="1,0">
+            <GradientStop Color="#FEF5EB" Offset="0"/>
+            <GradientStop Color="#fee2c2" Offset="0.49"/>
+            <GradientStop Color="#ffcf69" Offset="0.5"/>
+            <GradientStop Color="#ffffd6" Offset="10"/>
+            <GradientStop Color="#ffffd6" Offset="1.5"/>
+        </LinearGradientBrush>
+        <Style x:Key="NumberButton" TargetType="Button">
+            <Setter Property="Foreground" Value="#1e395b"/>
+            <Setter Property="Margin"  Value="0,0,5,5"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border BorderBrush="#8e9cad" CornerRadius="2" BorderThickness="1">
+                            <Border BorderBrush="White" CornerRadius="2" BorderThickness="1">
+                                <Grid Name="GridBG" Background="{StaticResource TwoColorGradient}">
+                                    <ContentPresenter Content="{TemplateBinding Content}"
+                                ContentTemplate="{TemplateBinding ContentTemplate}"
+                                VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"/>
+                                </Grid>
+                            </Border>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="Button.MouseEnter">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation 
+                                    Storyboard.TargetName="GridBG"
+                                    Storyboard.TargetProperty="Background"
+                                    To="{DynamicResource FourColorGradient}" Duration="0:0:3" RepeatBehavior="Forever"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <StackPanel>
+        <StackPanel.Background>
+            <LinearGradientBrush StartPoint="1,0">
+                <GradientStop Color="#edf4fc" Offset="0"/>
+                <GradientStop  Color="#d9e4f1" Offset="0.2"/>
+            </LinearGradientBrush>
+        </StackPanel.Background>
+        <StackPanel>
+            <Menu IsMainMenu="True">
+                <MenuItem Header="_View">
+                    <MenuItem Header="_Standard" IsChecked="True"/>
+                    <MenuItem Header="_Sientific"/>
+                    <MenuItem Header="_Programer"/>
+                    <MenuItem Header="_Statistics"/>
+                    <Separator/>
+                    <MenuItem Header="_History"/>
+                    <MenuItem Header="_Digit grouping"/>
+                    <Separator/>
+                    <MenuItem Header="_Basic" IsChecked="True"/>
+                    <MenuItem Header="_Unit conversion"/>
+                    <MenuItem Header="_Date calucation"/>
+                    <MenuItem Header="_Worksheets">
+                        <MenuItem Header="_Mortgage"/>
+                        <MenuItem Header="_Vehicle lease"/>
+                        <MenuItem Header="_Fuel economy (mpg)"/>
+                        <MenuItem Header="_Fuel economy (L/100km)"/>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="_Edit">
+                    <MenuItem Header="_Copy" Command="Copy"/>
+                    <MenuItem Header="_Paste" Command="Paste"/>
+                    <Separator />
+                    <MenuItem Header="_History">
+                        <MenuItem Header="_Copy History" IsEnabled="False"/>
+                        <MenuItem Header="_Edit" IsEnabled="False"/>
+                        <MenuItem Header="_Cancle edit" IsEnabled="False" Command="Close"/>
+                        <MenuItem Header="_Clear" IsEnabled="False"/>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="_Help">
+                    <MenuItem Header="_View Help"/>
+                    <Separator/>
+                    <MenuItem Header="_About Calculator"/>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
+        <StackPanel Margin="10,10,10,0">
+            <Border BorderBrush="#8e9cad" CornerRadius="2" BorderThickness="1">
+                <Border BorderBrush="White" CornerRadius="2" BorderThickness="1">
+                    <TextBlock Height="50">
+                        <TextBlock.Background>
+                            <LinearGradientBrush StartPoint="1,0">
+                                <GradientStop Color="#e5eefb" Offset="0"/>
+                                <GradientStop  Color="White" Offset="1"/>
+                            </LinearGradientBrush>
+                        </TextBlock.Background>
+                    </TextBlock>
+                </Border>
+            </Border>
+        </StackPanel>
+        <StackPanel Margin="10,0,10,20">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Button Style="{StaticResource DissableButton}" Height="27" Grid.Row="0" Grid.Column="0" Content="MC"/>
+                <Button Style="{StaticResource DissableButton}" Height="27" Grid.Row="0" Grid.Column="1" Content="MR"/>
+                <Button Style="{StaticResource DissableButton}" Height="27" Grid.Row="0" Grid.Column="2" Content="MS"/>
+                <Button Style="{StaticResource DissableButton}" Height="27" Grid.Row="0" Grid.Column="3" Content="M+"/>
+                <Button Style="{StaticResource DissableButton}" Height="27" Grid.Row="0" Grid.Column="4" Content="M-"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="1" Grid.Column="0" Content="←" FontWeight="Bold" FontSize="15"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="1"  Grid.Column="1" Content="CE"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="1"  Grid.Column="2" Content="C"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="1"  Grid.Column="3" Content="±"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="1"  Grid.Column="4" Content="√"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="2" Grid.Column="0" FontSize="15" Content="7"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="2" Grid.Column="1" FontSize="15" Content="8"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="2" Grid.Column="2" FontSize="15" Content="9"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="2"  Grid.Column="3" Content="/"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="2"  Grid.Column="4" Content="%"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="3"  Grid.Column="4" Content="1/x"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="3"  Grid.Column="3" FontSize="15" Content="*"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="3" Grid.Column="2" FontSize="15" Content="6"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="3" Grid.Column="1" FontSize="15" Content="5"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="3" Grid.Column="0" FontSize="15" Content="4"/>
+                <Button Style="{StaticResource EnnableButton}" Height="59" Grid.Row="4"  Grid.Column="4" Content="=" FontWeight="Bold" FontSize="20" Grid.RowSpan="2"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="4"  Grid.Column="3" FontSize="15" Content="-"/>
+                <Button Style="{StaticResource EnnableButton}" Height="27" Grid.Row="5"  Grid.Column="3" FontSize="15" Content="+"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="4" Grid.Column="0" FontSize="15" Content="1"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="4" Grid.Column="1" FontSize="15" Content="2"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="4" Grid.Column="2" FontSize="15" Content="3"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="5" Grid.Column="0" FontSize="15" Content="0" Grid.ColumnSpan="2"/>
+                <Button Style="{StaticResource NumberButton}" Height="27" Grid.Row="5" Grid.Column="2" FontSize="15" Content="."/>
+            </Grid>
+        </StackPanel>
+    </StackPanel>
+</Window>

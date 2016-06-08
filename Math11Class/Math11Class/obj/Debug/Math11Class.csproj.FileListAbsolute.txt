@@ -1,0 +1,6 @@
+F:\Telerik\Math11Class\Math11Class\bin\Debug\Math11Class.exe.config
+F:\Telerik\Math11Class\Math11Class\bin\Debug\Math11Class.exe
+F:\Telerik\Math11Class\Math11Class\bin\Debug\Math11Class.pdb
+F:\Telerik\Math11Class\Math11Class\obj\Debug\Math11Class.csprojResolveAssemblyReference.cache
+F:\Telerik\Math11Class\Math11Class\obj\Debug\Math11Class.exe
+F:\Telerik\Math11Class\Math11Class\obj\Debug\Math11Class.pdb

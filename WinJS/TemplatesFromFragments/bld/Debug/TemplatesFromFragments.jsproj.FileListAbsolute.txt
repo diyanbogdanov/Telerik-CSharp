@@ -1,0 +1,13 @@
+F:\Telerik\WinJS\TemplatesFromFragments\bin\Debug\resources.pri
+F:\Telerik\WinJS\TemplatesFromFragments\bin\Debug\AppxManifest.xml
+F:\Telerik\WinJS\TemplatesFromFragments\bin\Debug\TemplatesFromFragments.build.appxrecipe
+F:\Telerik\WinJS\TemplatesFromFragments\bld\Debug\priconfig.xml.intermediate
+F:\Telerik\WinJS\TemplatesFromFragments\bld\Debug\layout.resfiles.intermediate
+F:\Telerik\WinJS\TemplatesFromFragments\bld\Debug\resources.resfiles.intermediate
+F:\Telerik\WinJS\TemplatesFromFragments\bld\Debug\pri.resfiles.intermediate
+F:\Telerik\WinJS\TemplatesFromFragments\bld\Debug\priconfig.xml
+F:\Telerik\WinJS\TemplatesFromFragments\bld\Debug\layout.resfiles
+F:\Telerik\WinJS\TemplatesFromFragments\bld\Debug\resources.resfiles
+F:\Telerik\WinJS\TemplatesFromFragments\bld\Debug\pri.resfiles
+F:\Telerik\WinJS\TemplatesFromFragments\bld\Debug\LanguageQualifiers.txt
+F:\Telerik\WinJS\TemplatesFromFragments\bld\Debug\ProjectArchitectures.txt

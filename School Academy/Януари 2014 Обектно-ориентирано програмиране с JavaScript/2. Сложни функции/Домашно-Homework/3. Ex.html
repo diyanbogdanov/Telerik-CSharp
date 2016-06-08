@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ex-3</title>
+</head>
+<body>
+    <script>
+        var specialConsole = (function () {
+
+            function writeLine(text) {
+                var args = Array.prototype.slice.call(arguments, 1);
+
+                for (var i = 0; i < args.length; i++) {
+                    args[i] = JSON.stringify(args[i]);
+                }
+
+                console.log(text.replace(/{(\d+)}/g, function (match, key) {
+                    debugger;
+                    return (typeof args[key] !== "undefined" ? args[key] : match);
+                }));
+            }
+
+            function writeError(text) {
+                var args = Array.prototype.slice.call(arguments, 1);
+
+                for (var i = 0; i < args.length; i++) {
+                    args[i] = JSON.stringify(args[i]);
+                }
+
+                console.error(text.replace(/{(\d+)}/g, function (match, key) {
+                    return (typeof args[key] !== "undefined" ? args[key] : match);
+                }).toString());
+            }
+
+            function writeWarning(text) {
+                var args = Array.prototype.slice.call(arguments, 1);
+
+                for (var i = 0; i < args.length; i++) {
+                    args[i] = JSON.stringify(args[i]);
+                }
+
+                console.warn(text.replace(/{(\d+)}/g, function (match, key) {
+                    return (typeof args[key] !== "undefined" ? args[key] : match);
+                }));
+            }
+
+            return {
+                writeLine: writeLine,
+                writeError: writeError,
+                writeWarning: writeWarning
+            };
+        })();
+
+        var points = {
+            x: 5,
+            y: 3
+        }; //object print in console. .toString();
+
+        specialConsole.writeLine("Message: hello {0}", "world");
+        debugger;
+        specialConsole.writeLine("Points {0}", points);
+        specialConsole.writeError("Error: {0}", "Something happened");
+        specialConsole.writeWarning("Warning: {0}", "A warning");
+    </script>
+</body>
+</html>

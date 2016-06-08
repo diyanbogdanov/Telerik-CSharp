@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KADANS</Machine>
+    <WindowsUser>Dian</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>636064325E826498FFBC0D2C58487CF48D495C60E20AE439C46A7256661F29C6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4ef6caea-9f9d-4b7c-af23-81066b6f2fd2_1.0.0.0_neutral__mn0dvqpmbk0m2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4ef6caea-9f9d-4b7c-af23-81066b6f2fd2_mn0dvqpmbk0m2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4ef6caea-9f9d-4b7c-af23-81066b6f2fd2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=George</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Telerik\WinJS\TemplatesFromFragments\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-29T14:14:11.682</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-08-25T23:13:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-25T23:27:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\templates\computer-template.html">
+      <PackagePath>templates\computer-template.html</PackagePath>
+      <Modified>2013-08-25T23:37:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\images\hp-650.jpg">
+      <PackagePath>images\hp-650.jpg</PackagePath>
+      <Modified>2013-08-25T21:16:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T16:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\images\studio-1535.png">
+      <PackagePath>images\studio-1535.png</PackagePath>
+      <Modified>2013-08-25T20:49:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-08-25T22:36:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-25T23:33:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Telerik\WinJS\TemplatesFromFragments\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-29T14:14:11.594</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

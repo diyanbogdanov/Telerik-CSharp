@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\14. SampleDictionary\bin\Debug\_14.SampleDictionary.exe.config
+F:\Telerik\StringsAndTextProcessing\14. SampleDictionary\obj\Debug\14. SampleDictionary.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\14. SampleDictionary\bin\Debug\_14.SampleDictionary.exe
+F:\Telerik\StringsAndTextProcessing\14. SampleDictionary\bin\Debug\_14.SampleDictionary.pdb
+F:\Telerik\StringsAndTextProcessing\14. SampleDictionary\obj\Debug\_14.SampleDictionary.exe
+F:\Telerik\StringsAndTextProcessing\14. SampleDictionary\obj\Debug\_14.SampleDictionary.pdb

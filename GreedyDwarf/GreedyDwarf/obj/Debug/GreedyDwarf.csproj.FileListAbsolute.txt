@@ -1,0 +1,6 @@
+F:\Telerik\GreedyDwarf\GreedyDwarf\bin\Debug\GreedyDwarf.exe.config
+F:\Telerik\GreedyDwarf\GreedyDwarf\bin\Debug\GreedyDwarf.exe
+F:\Telerik\GreedyDwarf\GreedyDwarf\bin\Debug\GreedyDwarf.pdb
+F:\Telerik\GreedyDwarf\GreedyDwarf\obj\Debug\GreedyDwarf.csprojResolveAssemblyReference.cache
+F:\Telerik\GreedyDwarf\GreedyDwarf\obj\Debug\GreedyDwarf.exe
+F:\Telerik\GreedyDwarf\GreedyDwarf\obj\Debug\GreedyDwarf.pdb

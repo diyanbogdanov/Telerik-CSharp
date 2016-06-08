@@ -1,0 +1,6 @@
+F:\Telerik\SudokuSlover\SudokuSlover\bin\Debug\SudokuSlover.exe.config
+F:\Telerik\SudokuSlover\SudokuSlover\bin\Debug\SudokuSlover.exe
+F:\Telerik\SudokuSlover\SudokuSlover\bin\Debug\SudokuSlover.pdb
+F:\Telerik\SudokuSlover\SudokuSlover\obj\Debug\SudokuSlover.csprojResolveAssemblyReference.cache
+F:\Telerik\SudokuSlover\SudokuSlover\obj\Debug\SudokuSlover.exe
+F:\Telerik\SudokuSlover\SudokuSlover\obj\Debug\SudokuSlover.pdb

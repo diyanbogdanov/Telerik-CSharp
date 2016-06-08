@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\15. ReplaceATag\bin\Debug\_15.ReplaceATag.exe.config
+F:\Telerik\StringsAndTextProcessing\15. ReplaceATag\bin\Debug\_15.ReplaceATag.exe
+F:\Telerik\StringsAndTextProcessing\15. ReplaceATag\bin\Debug\_15.ReplaceATag.pdb
+F:\Telerik\StringsAndTextProcessing\15. ReplaceATag\obj\Debug\15. ReplaceATag.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\15. ReplaceATag\obj\Debug\_15.ReplaceATag.exe
+F:\Telerik\StringsAndTextProcessing\15. ReplaceATag\obj\Debug\_15.ReplaceATag.pdb

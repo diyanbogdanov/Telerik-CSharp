@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ex-1</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function P(x, y) {
+            return { x: x, y: y };
+        }
+
+        function L(point1, point2) {
+            return { A: point1, B: point2 };
+        }
+
+        function calculateDistance(point1, point2) {
+            return parseInt(Math.pow(Math.abs(point1.x - point2.x), 2) + Math.pow(Math.abs(point1.y - point2.y), 2));
+        }
+
+        function canFormATriangle(line1, line2, line3) {
+            var pointA = calculateDistance(line1.A, line1.B);
+            var pointB = calculateDistance(line2.A, line2.B);
+            var pointC = calculateDistance(line3.A, line3.B);
+            if (pointA + pointB > pointC && pointA + pointC > pointB && pointB + pointC > pointA) {
+                return "True";
+            } else {
+                return "False";
+            }
+        }
+
+        var point1 = P(1, 1);
+        var point2 = P(2, 3);
+        var point3 = P(3, 1);
+
+        var line1 = L(p1, p2);
+        var line2 = L(p2, p3);
+        var line3 = L(p1, p3);
+
+        jsConsole.writeLine(calculateDistance(p3, p2));
+
+        jsConsole.writeLine(canFormATriangle(l1, l2, l3));
+    </script>
+</body>
+</html>

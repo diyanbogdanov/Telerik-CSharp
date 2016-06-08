@@ -1,0 +1,5 @@
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\09. membersOfSequence\bin\Debug\_09.membersOfSequence.exe.config
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\09. membersOfSequence\bin\Debug\_09.membersOfSequence.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\09. membersOfSequence\bin\Debug\_09.membersOfSequence.pdb
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\09. membersOfSequence\obj\Debug\_09.membersOfSequence.exe
+F:\Telerik\C# PART I\Introducing to programming\IntroducintToProgramming\09. membersOfSequence\obj\Debug\_09.membersOfSequence.pdb

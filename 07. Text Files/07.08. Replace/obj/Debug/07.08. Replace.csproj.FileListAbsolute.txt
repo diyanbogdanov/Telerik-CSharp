@@ -1,0 +1,5 @@
+F:\Telerik\07. Text Files\07.08. Replace\bin\Debug\_07._08.Replace.exe.config
+F:\Telerik\07. Text Files\07.08. Replace\bin\Debug\_07._08.Replace.exe
+F:\Telerik\07. Text Files\07.08. Replace\bin\Debug\_07._08.Replace.pdb
+F:\Telerik\07. Text Files\07.08. Replace\obj\Debug\_07._08.Replace.exe
+F:\Telerik\07. Text Files\07.08. Replace\obj\Debug\_07._08.Replace.pdb

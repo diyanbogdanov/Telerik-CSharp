@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\12. ParseAnURL\bin\Debug\_12.ParseAnURL.exe.config
+F:\Telerik\StringsAndTextProcessing\12. ParseAnURL\obj\Debug\12. ParseAnURL.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\12. ParseAnURL\bin\Debug\_12.ParseAnURL.exe
+F:\Telerik\StringsAndTextProcessing\12. ParseAnURL\bin\Debug\_12.ParseAnURL.pdb
+F:\Telerik\StringsAndTextProcessing\12. ParseAnURL\obj\Debug\_12.ParseAnURL.exe
+F:\Telerik\StringsAndTextProcessing\12. ParseAnURL\obj\Debug\_12.ParseAnURL.pdb

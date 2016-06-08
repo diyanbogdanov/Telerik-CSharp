@@ -1,0 +1,13 @@
+F:\Telerik\WPFCalculatro\WPFCalculatro\bin\Debug\WPFCalculatro.exe.config
+F:\Telerik\WPFCalculatro\WPFCalculatro\bin\Debug\WPFCalculatro.exe
+F:\Telerik\WPFCalculatro\WPFCalculatro\bin\Debug\WPFCalculatro.pdb
+F:\Telerik\WPFCalculatro\WPFCalculatro\obj\Debug\WPFCalculatro.csprojResolveAssemblyReference.cache
+F:\Telerik\WPFCalculatro\WPFCalculatro\obj\Debug\MainWindow.baml
+F:\Telerik\WPFCalculatro\WPFCalculatro\obj\Debug\MainWindow.g.cs
+F:\Telerik\WPFCalculatro\WPFCalculatro\obj\Debug\App.g.cs
+F:\Telerik\WPFCalculatro\WPFCalculatro\obj\Debug\WPFCalculatro_MarkupCompile.cache
+F:\Telerik\WPFCalculatro\WPFCalculatro\obj\Debug\WPFCalculatro.g.resources
+F:\Telerik\WPFCalculatro\WPFCalculatro\obj\Debug\WPFCalculatro.Properties.Resources.resources
+F:\Telerik\WPFCalculatro\WPFCalculatro\obj\Debug\WPFCalculatro.csproj.GenerateResource.Cache
+F:\Telerik\WPFCalculatro\WPFCalculatro\obj\Debug\WPFCalculatro.exe
+F:\Telerik\WPFCalculatro\WPFCalculatro\obj\Debug\WPFCalculatro.pdb

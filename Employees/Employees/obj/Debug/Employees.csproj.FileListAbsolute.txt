@@ -1,0 +1,6 @@
+F:\Telerik\Employees\Employees\bin\Debug\Employees.exe.config
+F:\Telerik\Employees\Employees\bin\Debug\Employees.exe
+F:\Telerik\Employees\Employees\bin\Debug\Employees.pdb
+F:\Telerik\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+F:\Telerik\Employees\Employees\obj\Debug\Employees.exe
+F:\Telerik\Employees\Employees\obj\Debug\Employees.pdb

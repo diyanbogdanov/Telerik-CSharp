@@ -1,0 +1,12 @@
+F:\Telerik\LayoutControls\LayoutControls\bin\Release\LayoutControls.exe.config
+F:\Telerik\LayoutControls\LayoutControls\bin\Release\LayoutControls.exe
+F:\Telerik\LayoutControls\LayoutControls\bin\Release\LayoutControls.pdb
+F:\Telerik\LayoutControls\LayoutControls\obj\Release\MainWindow.baml
+F:\Telerik\LayoutControls\LayoutControls\obj\Release\MainWindow.g.cs
+F:\Telerik\LayoutControls\LayoutControls\obj\Release\App.g.cs
+F:\Telerik\LayoutControls\LayoutControls\obj\Release\LayoutControls_MarkupCompile.cache
+F:\Telerik\LayoutControls\LayoutControls\obj\Release\LayoutControls.g.resources
+F:\Telerik\LayoutControls\LayoutControls\obj\Release\LayoutControls.Properties.Resources.resources
+F:\Telerik\LayoutControls\LayoutControls\obj\Release\LayoutControls.csproj.GenerateResource.Cache
+F:\Telerik\LayoutControls\LayoutControls\obj\Release\LayoutControls.exe
+F:\Telerik\LayoutControls\LayoutControls\obj\Release\LayoutControls.pdb

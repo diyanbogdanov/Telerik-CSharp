@@ -1,0 +1,6 @@
+F:\Telerik\CSharpBrackets\CSharpBrackets\bin\Debug\CSharpBrackets.exe.config
+F:\Telerik\CSharpBrackets\CSharpBrackets\obj\Debug\CSharpBrackets.csprojResolveAssemblyReference.cache
+F:\Telerik\CSharpBrackets\CSharpBrackets\bin\Debug\CSharpBrackets.exe
+F:\Telerik\CSharpBrackets\CSharpBrackets\bin\Debug\CSharpBrackets.pdb
+F:\Telerik\CSharpBrackets\CSharpBrackets\obj\Debug\CSharpBrackets.exe
+F:\Telerik\CSharpBrackets\CSharpBrackets\obj\Debug\CSharpBrackets.pdb

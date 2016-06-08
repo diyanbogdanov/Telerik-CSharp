@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Ex-3</title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	<script>
+        var Student = function (name, marks) {
+            this.name = name;
+            this.marks = marks;
+        }
+
+        var marks = [
+            { subject: "JavaScript", score: 5.50 },
+            { subject: "OOP", score: 5.00 },
+            { subject: "Algorithms and Data Structures", score: 6.00 },
+            { subject: "Photoshop", score: 4.00 }
+        ];
+
+        var johnResig = new Student("John Resig", marks);
+
+        var r = new Number(5); // Object Number
+        var t = 5 // Simbple number
+
+        Object.prototype.hasProperty = function (prop) {
+            if (typeof this == "Object" || typeof this == "object") {
+                jsConsole.writeLine(this.hasOwnProperty(prop));
+            } else {
+                jsConsole.writeLine("This is not an object. This is " + typeof this);
+            }
+        }
+
+        function hasProperty(obj, prop) {
+            if (typeof obj == "Object" || typeof obj == "object") {                
+                jsConsole.writeLine(obj.hasOwnProperty(prop));
+            } else {                
+                jsConsole.writeLine("This is not an object. This is " + typeof obj);
+            }
+        }
+
+        Student.hasProperty("name");
+        johnResig.hasProperty("name");
+        r.hasProperty("name");
+        t.hasProperty("name"); // Automatically becomes an object
+
+        hasProperty(Student, "name");
+        hasProperty(johnResig, "name");
+        hasProperty(r, "name");
+        hasProperty(t, "name");
+	</script>
+</body>
+</html>

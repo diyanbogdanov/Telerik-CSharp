@@ -1,0 +1,1 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\09. WhitinCircleAndRectangle\bin\Debug\_09.WhitinCircleAndRectangle.exe.config

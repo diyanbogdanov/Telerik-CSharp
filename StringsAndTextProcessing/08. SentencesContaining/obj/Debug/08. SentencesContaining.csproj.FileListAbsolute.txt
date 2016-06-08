@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\08. SentencesContaining\bin\Debug\_08.SentencesContaining.exe.config
+F:\Telerik\StringsAndTextProcessing\08. SentencesContaining\bin\Debug\_08.SentencesContaining.exe
+F:\Telerik\StringsAndTextProcessing\08. SentencesContaining\bin\Debug\_08.SentencesContaining.pdb
+F:\Telerik\StringsAndTextProcessing\08. SentencesContaining\obj\Debug\08. SentencesContaining.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\08. SentencesContaining\obj\Debug\_08.SentencesContaining.exe
+F:\Telerik\StringsAndTextProcessing\08. SentencesContaining\obj\Debug\_08.SentencesContaining.pdb

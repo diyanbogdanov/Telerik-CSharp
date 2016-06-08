@@ -1,0 +1,6 @@
+F:\Telerik\9GagNumbers\9GagNumbers\bin\Debug\9GagNumbers.exe.config
+F:\Telerik\9GagNumbers\9GagNumbers\obj\Debug\9GagNumbers.csprojResolveAssemblyReference.cache
+F:\Telerik\9GagNumbers\9GagNumbers\bin\Debug\9GagNumbers.exe
+F:\Telerik\9GagNumbers\9GagNumbers\bin\Debug\9GagNumbers.pdb
+F:\Telerik\9GagNumbers\9GagNumbers\obj\Debug\9GagNumbers.exe
+F:\Telerik\9GagNumbers\9GagNumbers\obj\Debug\9GagNumbers.pdb

@@ -1,0 +1,1 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\07. PrimeNumbers\bin\Debug\_07.PrimeNumbers.exe.config

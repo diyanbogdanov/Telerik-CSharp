@@ -1,0 +1,1 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\DataTypesAndVariables\07. DeclareTwoStringVariables\bin\Debug\_07.DeclareTwoStringVariables.exe.config

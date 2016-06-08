@@ -1,0 +1,6 @@
+F:\Telerik\MagicWords\MagicWords\bin\Debug\MagicWords.exe.config
+F:\Telerik\MagicWords\MagicWords\bin\Debug\MagicWords.exe
+F:\Telerik\MagicWords\MagicWords\bin\Debug\MagicWords.pdb
+F:\Telerik\MagicWords\MagicWords\obj\Debug\MagicWords.csprojResolveAssemblyReference.cache
+F:\Telerik\MagicWords\MagicWords\obj\Debug\MagicWords.exe
+F:\Telerik\MagicWords\MagicWords\obj\Debug\MagicWords.pdb

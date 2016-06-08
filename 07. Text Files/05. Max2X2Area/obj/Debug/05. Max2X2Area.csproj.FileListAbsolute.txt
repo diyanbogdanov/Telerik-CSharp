@@ -1,0 +1,5 @@
+F:\Telerik\07. Text Files\05. Max2X2Area\bin\Debug\_05.Max2X2Area.exe.config
+F:\Telerik\07. Text Files\05. Max2X2Area\bin\Debug\_05.Max2X2Area.exe
+F:\Telerik\07. Text Files\05. Max2X2Area\bin\Debug\_05.Max2X2Area.pdb
+F:\Telerik\07. Text Files\05. Max2X2Area\obj\Debug\_05.Max2X2Area.exe
+F:\Telerik\07. Text Files\05. Max2X2Area\obj\Debug\_05.Max2X2Area.pdb

@@ -1,0 +1,5 @@
+F:\Telerik\StringsAndTextProcessing\18. ExtractEMails\bin\Debug\_18.ExtractEMails.exe.config
+F:\Telerik\StringsAndTextProcessing\18. ExtractEMails\bin\Debug\_18.ExtractEMails.exe
+F:\Telerik\StringsAndTextProcessing\18. ExtractEMails\bin\Debug\_18.ExtractEMails.pdb
+F:\Telerik\StringsAndTextProcessing\18. ExtractEMails\obj\Debug\_18.ExtractEMails.exe
+F:\Telerik\StringsAndTextProcessing\18. ExtractEMails\obj\Debug\_18.ExtractEMails.pdb

@@ -1,0 +1,5 @@
+F:\Telerik\07. Text Files\03. InsertLineNumber\bin\Debug\_03.InsertLineNumber.exe.config
+F:\Telerik\07. Text Files\03. InsertLineNumber\bin\Debug\_03.InsertLineNumber.exe
+F:\Telerik\07. Text Files\03. InsertLineNumber\bin\Debug\_03.InsertLineNumber.pdb
+F:\Telerik\07. Text Files\03. InsertLineNumber\obj\Debug\_03.InsertLineNumber.exe
+F:\Telerik\07. Text Files\03. InsertLineNumber\obj\Debug\_03.InsertLineNumber.pdb

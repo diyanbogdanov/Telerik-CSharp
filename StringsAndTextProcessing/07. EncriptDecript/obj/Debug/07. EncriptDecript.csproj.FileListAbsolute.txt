@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\07. EncriptDecript\bin\Debug\_07.EncriptDecript.exe.config
+F:\Telerik\StringsAndTextProcessing\07. EncriptDecript\bin\Debug\_07.EncriptDecript.exe
+F:\Telerik\StringsAndTextProcessing\07. EncriptDecript\bin\Debug\_07.EncriptDecript.pdb
+F:\Telerik\StringsAndTextProcessing\07. EncriptDecript\obj\Debug\07. EncriptDecript.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\07. EncriptDecript\obj\Debug\_07.EncriptDecript.exe
+F:\Telerik\StringsAndTextProcessing\07. EncriptDecript\obj\Debug\_07.EncriptDecript.pdb

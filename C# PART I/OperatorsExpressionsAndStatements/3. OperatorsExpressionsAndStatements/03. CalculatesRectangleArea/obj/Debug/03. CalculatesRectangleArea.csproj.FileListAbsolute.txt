@@ -1,0 +1,1 @@
+F:\Telerik\C# PART I\DataTypesAndVariables\3. OperatorsExpressionsAndStatements\03. CalculatesRectangleArea\bin\Debug\_03.CalculatesRectangleArea.exe.config

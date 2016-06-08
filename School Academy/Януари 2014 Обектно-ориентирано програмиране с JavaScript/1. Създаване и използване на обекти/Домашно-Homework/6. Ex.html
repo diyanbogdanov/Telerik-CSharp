@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ex-5</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+    <script src="scripts/sprintf-0.7-beta1.js" ></script>
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        var persons = [
+            { firstname: "Gosho", lastname: "Petrov", age: 32 },
+            { firstname: "Bay", lastname: "Ivan", age: 81 },
+            { firstname: "Hristo", lastname: "Dimitrov", age: 17 },
+            { firstname: "Petur", lastname: "Petrov", age: 34 },
+            { firstname: "Gosho", lastname: "Iliev", age: 28 },
+            { firstname: "Ivan", lastname: "Dimitrov", age: 17 },
+            { firstname: "Stavri", lastname: "Iliev", age: 32 }, ];
+
+        jsConsole.writeLine("Before grouping...");
+
+        for (var person in persons) {
+            jsConsole.writeLine("First name: " + persons[person].firstname + ", second name: " + persons[person].lastname + ", age: " + persons[person].age);
+        }
+
+        function groupArrayElements(array, prop) {
+            if (prop == "firstname" || prop == "lastname" || prop == "age") {
+                var groups = {};
+                
+                array.forEach(function (p) {
+                    if (!groups[p[prop]])
+                        groups[p[prop]] = new Array();
+                    groups[p[prop]].push(p.firstname + " " + p.lastname + " " + p.age);
+                });
+
+                return groups;
+            } else {
+                jsConsole.writeLine("There is no such property in Persons.");
+            }
+        }
+
+        jsConsole.writeLine();
+        jsConsole.writeLine("Afer grouping...");
+        jsConsole.writeLine();
+
+
+        for (var prop in persons[0]) {
+            var grouped = groupArrayElements(persons, prop);
+            jsConsole.writeLine("Grouped by - " + prop);
+            for (var group in grouped) {
+                jsConsole.writeLine("Group: " + group + " - " + grouped[group].toString());
+            }
+            jsConsole.writeLine();
+        }
+    </script>
+</body>
+</html>

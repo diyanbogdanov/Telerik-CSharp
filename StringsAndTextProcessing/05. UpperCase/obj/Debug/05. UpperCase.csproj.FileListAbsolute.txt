@@ -1,0 +1,6 @@
+F:\Telerik\StringsAndTextProcessing\05. UpperCase\bin\Debug\_05.UpperCase.exe.config
+F:\Telerik\StringsAndTextProcessing\05. UpperCase\bin\Debug\_05.UpperCase.exe
+F:\Telerik\StringsAndTextProcessing\05. UpperCase\bin\Debug\_05.UpperCase.pdb
+F:\Telerik\StringsAndTextProcessing\05. UpperCase\obj\Debug\05. UpperCase.csprojResolveAssemblyReference.cache
+F:\Telerik\StringsAndTextProcessing\05. UpperCase\obj\Debug\_05.UpperCase.exe
+F:\Telerik\StringsAndTextProcessing\05. UpperCase\obj\Debug\_05.UpperCase.pdb

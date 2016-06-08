@@ -1,0 +1,5 @@
+F:\Telerik\07. Text Files\10. ExtractText\bin\Debug\_10.ExtractText.exe.config
+F:\Telerik\07. Text Files\10. ExtractText\bin\Debug\_10.ExtractText.exe
+F:\Telerik\07. Text Files\10. ExtractText\bin\Debug\_10.ExtractText.pdb
+F:\Telerik\07. Text Files\10. ExtractText\obj\Debug\_10.ExtractText.exe
+F:\Telerik\07. Text Files\10. ExtractText\obj\Debug\_10.ExtractText.pdb
